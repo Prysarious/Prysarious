@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Feres Aissaoui 👋
 
-<!--
-**Prysarious/Prysarious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Science & AI Student** specializing in Data Analysis, Machine Learning, RAG architectures, LLM orchestration, and speech to Speech AI pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** Python,R, SQL, PHP, JavaScript
+* **AI & Machine Learning:** PyTorch, Scikit-Learn, Hugging Face, RAG, Speech Processing (Vosk, Whisper, kokoro)
+* **Data & Analytics:** Pandas, NumPy, MySQL, Power BI
+* **Backend & Tools:** FastAPI, Docker, React, Git
+
+---
+
+### 📌 Key Featured Projects
+
+* 🎮 **[Steam Games RAG Recommendation System](https://github.com/Prysarious/Steam-Games-Recommendation-RAG-Experimental-)**
+  * Built an interactive conversational system using RAG and LLMs to recommend games based on user queries against a dataset of Steam games released until March 2025.
+* 🚗 **[Cars Dataset Cleaning & Analysis](https://github.com/Prysarious/Cars-Dataset-Cleaning-and-Analysis)**
+  * Exploratory data analysis and automated preprocessing pipeline handling dataset missingness, type conversions, outlier management and a decision tree model that allows to classify the car make according to other parameters.
+
+---
+
+### 📫 Connect with Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/feres-aissaoui](https://linkedin.com/in/feres-aissaoui)
+* 📧 **Email:** feres.aissaoui.04@gmail.com
