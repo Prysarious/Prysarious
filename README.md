@@ -1,6 +1,6 @@
 # Hi, I'm Feres Aissaoui
 
-**Data Science & AI Student** specializing in Data Analysis, Machine Learning, RAG architectures, LLM orchestration, and speech to Speech AI pipelines.
+**Data Science & AI Student** specializing in Data Analysis, Machine Learning, RAG architectures, LLM orchestration, and Speech to Speech AI pipelines.
 
 ---
 
