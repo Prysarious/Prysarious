@@ -15,9 +15,10 @@
 
 ### Key Featured Projects
 
-**[Steam Games RAG Recommendation System](https://github.com/Prysarious/Steam-Games-Recommendation-RAG-Experimental-)**
+* **[Steam Games RAG Recommendation System](https://github.com/Prysarious/Steam-Games-Recommendation-RAG-Experimental-)**
   * Built an interactive conversational system using RAG and LLMs to recommend games based on user queries against a dataset of Steam games released until March 2025.
-**[Cars Dataset Cleaning & Analysis](https://github.com/Prysarious/Cars-Dataset-Cleaning-and-Analysis)**
+
+* **[Cars Dataset Cleaning & Analysis](https://github.com/Prysarious/Cars-Dataset-Cleaning-and-Analysis)**
   * Exploratory data analysis and automated preprocessing pipeline handling dataset missingness, type conversions, outlier management and a decision tree model that allows to classify the car make according to other parameters.
 
 ---
